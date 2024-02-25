@@ -1,0 +1,10 @@
+[submodule "mesa"]
+	path = mesa
+	url = https://gitlab.freedesktop.org/asahi/mesa
+	branch = main
+[submodule "tiny-dfr"]
+	path = tiny-dfr
+	url = https://github.com/WhatAmISupposedToPutHere/tiny-dfr
+[submodule "m1n1"]
+	path = m1n1
+	url = https://github.com/asahilinux/m1n1
